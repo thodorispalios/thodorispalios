@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thodorispalios
-- 🌱 I’m currently learning SwiftUI and Python
+- 🌱 I’m currently learning SwiftUI, Python and Javascript
 - 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me https://www.linkedin.com/in/theopalios/
 
